@@ -1,5 +1,5 @@
     p {
-        color: blueviolet;
+        color: blue;
     }
 
     h3 {
@@ -8,5 +8,16 @@
     div {
         width: 300px;
         height: 300px;
-        background-color: aqua;
+        background-color: rgb(122, 236, 160);
+    }
+    .right_menu {
+        background-color: blueviolet;
+        width: 600px;
+    }
+    .description {
+        background-color: bisque;
+        height: 200px;
+    }
+    .conteiner {
+        display: flex;
     }
